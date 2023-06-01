@@ -33,7 +33,9 @@ Before running the application, make sure you have the following installed:
   ```
 
 5. Install the project dependencies:
-  - pip install -r requirements.txt
+  ```
+    pip install -r requirements.txt
+  ```
   
 6. Run database migrations
 7. Start the development server
