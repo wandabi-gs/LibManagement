@@ -1,5 +1,5 @@
 # LibManagement
-This is a library management application built using Django. It provides a web-based interface for managing library books, borrowers, and borrowing transactions.
+This is a library management application built using Flask. It provides a web-based interface for managing library books, borrowers, and borrowing transactions.
 
 ## Features
 
@@ -15,7 +15,7 @@ This is a library management application built using Django. It provides a web-b
 Before running the application, make sure you have the following installed:
 
 - Python 3.x: Install Python from the official website (https://www.python.org/downloads/).
-- Django: Install Django using pip
+- Flask: Install flask using pip
 
 ## Installation
 
